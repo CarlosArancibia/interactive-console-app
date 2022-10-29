@@ -1,0 +1,17 @@
+{
+  "name": "04-app-console-interactive",
+  "version": "1.0.0",
+  "description": "This a Interactive console app",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Carlos Arancibia",
+  "license": "MIT"
+}
